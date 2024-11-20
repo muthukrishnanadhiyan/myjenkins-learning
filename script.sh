@@ -29,4 +29,6 @@ else
   echo "AWS CLI installed successfully."
 
   echo "github triiger happend manually"
+
+  echo "bye bye"
 fi
