@@ -27,4 +27,6 @@ else
   sudo apt-get install -y awscli
   
   echo "AWS CLI installed successfully."
+
+  echo "github triiger happend manually"
 fi
